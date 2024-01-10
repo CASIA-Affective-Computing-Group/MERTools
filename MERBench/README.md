@@ -28,7 +28,7 @@ paper: https://arxiv.org/pdf/2401.03429
 
 
 ## Usage
-
+This is an extension of **./MER2023**. You can also refer to **./MER2023** for more details.
 
 
 ### Create ./tools folder
