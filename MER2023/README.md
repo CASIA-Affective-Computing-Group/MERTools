@@ -7,22 +7,21 @@ Correspondence to:
   - Licai Sun: sunlicai2019@ia.ac.cn
 
 ## Paper
-[**MER 2023: Multi-label Learning, Modality Robustness, and Semi-Supervised Learning**](https://arxiv.org/abs/2304.08981)<br>
+[**MER 2023: Multi-label Learning, Modality Robustness, and Semi-Supervised Learning**](https://dl.acm.org/doi/pdf/10.1145/3581783.3612836)<br>
 Zheng Lian, Haiyang Sun, Licai Sun, Jinming Zhao, Ye Liu, Bin Liu, Jiangyan Yi, Meng Wang, Erik Cambria, Guoying Zhao, Björn W. Schuller, Jianhua Tao<br>
 
 Please cite our paper if you find our work useful for your research:
 
 ```tex
-@article{lian2023mer,
-  title={MER 2023: Multi-label Learning, Modality Robustness, and Semi-Supervised Learning},
-  author={Lian, Zheng and Sun, Haiyang and Sun, Licai and Zhao, Jinming and Liu, Ye and Liu, Bin and Yi, Jiangyan and Wang, Meng and Cambria, Erik and Zhao, Guoying and Schuller, Björn and Tao, Jianhua},
-  journal={ACM Multimedia 2023},
+@inproceedings{lian2023mer,
+  title={Mer 2023: Multi-label learning, modality robustness, and semi-supervised learning},
+  author={Lian, Zheng and Sun, Haiyang and Sun, Licai and Chen, Kang and Xu, Mngyu and Wang, Kexin and Xu, Ke and He, Yu and Li, Ying and Zhao, Jinming and others},
+  booktitle={Proceedings of the 31st ACM International Conference on Multimedia},
+  pages={9610--9614},
   year={2023}
 }
 ```
-Baseline paper: https://arxiv.org/abs/2304.08981
-
-Baseline code: https://github.com/zeroQiaoba/MER2023-Baseline
+paper: https://dl.acm.org/doi/pdf/10.1145/3581783.3612836
 
 To download the dataset, please fill out an [EULA](https://drive.google.com/file/d/1LOW2e6ZuyUjurVF0SNPisqSh4VzEl5lN) and send it to our official email address merchallenge.contact@gmail.com. It requires participants to use this dataset only for academic research and not to edit or upload samples to the Internet.
 
